@@ -2,6 +2,7 @@
 ###########
 /ignore/
 /temps/
+db-data/
 
 
 # Compiled source #
